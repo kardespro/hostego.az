@@ -1,0 +1,8 @@
+[
+  {
+    "name": "France", "type": "webhost", "ip": "ws1.ovh.fr.hostego.az"
+  },
+ {
+    "name": "France VDS", "type": "webhost", "ip": "vds1.ovh.fr.hostego.az"
+  },
+]
